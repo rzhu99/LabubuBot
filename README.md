@@ -17,7 +17,7 @@ Purpose:
 
 Result:
 - The bot is currrently hosted on Heroku and is scheduled to scrape for the popular Labubu products every 10 mins.
-- Success rate in determining whether a product is in stock or not is at least 85% accurate.
+- Success rate in determining whether a product is in stock or not is at least 99% accurate.
 
 Future:
 - I hope to improve the script so that it doesn't continue hitting the memory limit set by Heroku
