@@ -16,12 +16,13 @@ Purpose:
 - Therefore, I created this bot in hopes to help 'non-resellers' to have the better hand during "random and unannounced" restocks.
 
 Result:
-- The bot is currrently hosted on Heroku and is scheduled to scrape for the popular Labubu products every 10 mins.
+- The bot is currrently hosted on Heroku and is scheduled to scrape for the popular Labubu products every 1 min.
+- Utilizes the Cron To Go
 - Success rate in determining whether a product is in stock or not is at least 99% accurate.
 
 Future:
-- I hope to improve the script so that it doesn't continue hitting the memory limit set by Heroku
+- I hope to improve the script so that it doesn't continue hitting the memory limit set by Heroku (done)
 - I have yet to create the posit app for users to type in their emails to be added to the listserve. Currently doing that manually.
-- I can see this type of script being used else where
+- I can see this type of script being used else where [Pokemon?]
 
 I'm not going to share my code here as there are propietary information , but once the posit app is created, there will be a visual view
